@@ -2,9 +2,10 @@
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Leader: Võ Hưng Khang- ID 20521440
+- Member: Nguyễn Thúc Hoàng Hùng - ID 205213700
+- Member: Võ Thị Yến Nhi - ID 205217 
+- Member: Huỳnh Khả Tú
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
