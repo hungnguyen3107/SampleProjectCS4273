@@ -3,7 +3,7 @@
 Participants:
 
 - Member: Nguyễn Thúc Hoàng Hùng - ID 205213700
-
+https://trello.com/invite/b/l1lJCOYR/efaf7c786501ff27e2b5030438fe3d3c/nhập-mon-cnpm-gr5
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
